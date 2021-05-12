@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application Sample2</Name>
+    <Assembly>Sample2.dll</Assembly>
+    <FullClassName>Sample2.App</FullClassName>
+    <ClientId>27a549f7-8e65-4235-9ac7-8fb64061db1d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
